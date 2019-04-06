@@ -1,4 +1,21 @@
-# ProjetoJogoVelha
+# Jogo Velha
+
+**Projeto de um jogo da velha feito em Angular com Bootstrap e CSS puro como routing de componentes**
+
+> - ngClass
+> - ngIf
+> - Class Binding
+> - Propertie Binding
+> - Event Binding
+> - Service
+> - Provider
+> - Module
+> - Directive
+
+_Faça o clone do projeto, entre na pasta e execute os seguintes comandos:_
+
+1. > **`npm install`**
+1. > **`ng serve`**
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
